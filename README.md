@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Engranand/DailyLeetcode/tree/master/0071-simplify-path) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Engranand/DailyLeetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
