@@ -21,7 +21,7 @@ class Solution {
                     destroyed = true;
                     break;
                 }
-                else { 
+                else {
                     // Current asteroid is smaller, so it explodes
                     destroyed = true;
                     break;
