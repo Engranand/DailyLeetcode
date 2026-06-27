@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Engranand/DailyLeetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Engranand/DailyLeetcode/tree/master/0071-simplify-path) |
+| [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
