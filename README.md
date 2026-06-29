@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
 |  |
@@ -14,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Engranand/DailyLeetcode/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Engranand/DailyLeetcode/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
