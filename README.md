@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Engranand/DailyLeetcode/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
