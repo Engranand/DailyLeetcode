@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Engranand/DailyLeetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
 | [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
