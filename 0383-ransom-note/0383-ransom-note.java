@@ -1,21 +1,18 @@
-import java.util.HashMap;
-
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] count = new int[26];
 
-        // Count frequency of each character in magazine
-        for (char ch : magazine.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        // Count letters in magazine
+        for (char c : magazine.toCharArray()) {
+            count[c - 'a']++;
         }
 
-        // Check characters of ransomNote
-        for (char ch : ransomNote.toCharArray()) {
-            if (!map.containsKey(ch) || map.get(ch) == 0) {
+        // Use letters for ransomNote
+        for (char c : ransomNote.toCharArray()) {
+            if (count[c - 'a'] == 0) {
                 return false;
             }
-
-            map.put(ch, map.get(ch) - 1);
+            count[c - 'a']--;
         }
 
         return true;
