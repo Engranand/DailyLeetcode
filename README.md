@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -56,14 +58,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
