@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Engranand/DailyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
