@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Engranand/DailyLeetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Engranand/DailyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Engranand/DailyLeetcode/tree/master/0771-jewels-and-stones) |
 | [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Simulation
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Engranand/DailyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Engranand/DailyLeetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Engranand/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Engranand/DailyLeetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Engranand/DailyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Engranand/DailyLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
