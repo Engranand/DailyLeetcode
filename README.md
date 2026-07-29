@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Engranand/DailyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Engranand/DailyLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Engranand/DailyLeetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Engranand/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Engranand/DailyLeetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
