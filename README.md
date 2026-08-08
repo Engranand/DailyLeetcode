@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Engranand/DailyLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Engranand/DailyLeetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Engranand/DailyLeetcode/tree/master/0485-max-consecutive-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Engranand/DailyLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
@@ -161,5 +164,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
