@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Engranand/DailyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/Engranand/DailyLeetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Engranand/DailyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Engranand/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Engranand/DailyLeetcode/tree/master/0290-word-pattern) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Engranand/DailyLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Engranand/DailyLeetcode/tree/master/0658-find-k-closest-elements) |
 ## Memoization
 |  |
