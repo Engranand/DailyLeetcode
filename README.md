@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Engranand/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Engranand/DailyLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Engranand/DailyLeetcode/tree/master/0509-fibonacci-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Engranand/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Engranand/DailyLeetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Engranand/DailyLeetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Engranand/DailyLeetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Engranand/DailyLeetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
