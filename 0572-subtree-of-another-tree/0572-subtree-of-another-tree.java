@@ -36,22 +36,22 @@ class Solution {
     }
 
 
-    public boolean same(TreeNode root1, TreeNode root2) {
+    public boolean same(TreeNode root, TreeNode subroot) {
 
-        if (root1 == null && root2 == null) {
+        if (root == null && subroot == null) {
             return true;
         }
 
-        if (root1 == null || root2 == null) {
+        if (root == null || subroot == null) {
             return false;
         }
 
-        if (root1.val != root2.val) {
+        if (root.val != subroot.val) {
             return false;
         }
 
-        boolean left = same(root1.left, root2.left);
-        boolean right = same(root1.right, root2.right);
+        boolean left = same(root.left, subroot.left);
+        boolean right = same(root.right, subroot.right);
 
         return left && right;
     }
