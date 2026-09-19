@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0226-invert-binary-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0226-invert-binary-tree) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0226-invert-binary-tree) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Engranand/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Engranand/DailyLeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Engranand/DailyLeetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
