@@ -16,7 +16,7 @@
 
 
  /// DFS+HASHSET APPROACH 
- 
+
 class Solution {
 
     public boolean findTarget(TreeNode root, int k) {
@@ -36,7 +36,7 @@ class Solution {
         if (set.contains(need))
             return true;
 
-        set.add(root.val);
+        else set.add(root.val);
 
         if (solve(root.left, k, set))
             return true;
