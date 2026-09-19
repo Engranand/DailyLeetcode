@@ -13,42 +13,37 @@
  *     }
  * }
  */
+
+
+ /// DFS+HASHSET APPROACH 
+ 
 class Solution {
 
     public boolean findTarget(TreeNode root, int k) {
 
-        List<Integer> list = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
 
-        inorder(root, list);
-
-        int left = 0;
-        int right = list.size() - 1;
-
-        while (left < right) {
-
-            int sum = list.get(left) + list.get(right);
-
-            if (sum == k)
-                return true;
-
-            if (sum < k)
-                left++;
-            else
-                right--;
-        }
-
-        return false;
+        return solve(root, k, set);
     }
 
-    private void inorder(TreeNode root, List<Integer> list) {
+    public boolean solve(TreeNode root, int k, HashSet<Integer> set) {
 
         if (root == null)
-            return;
+            return false;
 
-        inorder(root.left, list);
+        int need = k - root.val;
 
-        list.add(root.val);
+        if (set.contains(need))
+            return true;
 
-        inorder(root.right, list);
+        set.add(root.val);
+
+        if (solve(root.left, k, set))
+            return true;
+
+        if (solve(root.right, k, set))
+            return true;
+
+        return false;
     }
 }
