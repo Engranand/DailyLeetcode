@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Engranand/DailyLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Engranand/DailyLeetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Engranand/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Engranand/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Engranand/DailyLeetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Engranand/DailyLeetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Engranand/DailyLeetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Engranand/DailyLeetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Engranand/DailyLeetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Engranand/DailyLeetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Engranand/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Engranand/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Engranand/DailyLeetcode/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
