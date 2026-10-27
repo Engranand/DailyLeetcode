@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Engranand/DailyLeetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Engranand/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Engranand/DailyLeetcode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Engranand/DailyLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Engranand/DailyLeetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Engranand/DailyLeetcode/tree/master/0692-top-k-frequent-words) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Engranand/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Engranand/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Engranand/DailyLeetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Engranand/DailyLeetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Engranand/DailyLeetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Engranand/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Engranand/DailyLeetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Engranand/DailyLeetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Engranand/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Engranand/DailyLeetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Engranand/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Engranand/DailyLeetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Engranand/DailyLeetcode/tree/master/0785-is-graph-bipartite) |
