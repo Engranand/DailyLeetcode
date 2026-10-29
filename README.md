@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Engranand/DailyLeetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Engranand/DailyLeetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Engranand/DailyLeetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Engranand/DailyLeetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Engranand/DailyLeetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## String Matching
 |  |
 | ------- |
