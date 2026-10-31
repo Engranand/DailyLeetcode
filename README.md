@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Engranand/DailyLeetcode/tree/master/0934-shortest-bridge) |
 | [0973-k-closest-points-to-origin](https://github.com/Engranand/DailyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Engranand/DailyLeetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Engranand/DailyLeetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Engranand/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Engranand/DailyLeetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Engranand/DailyLeetcode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Engranand/DailyLeetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Engranand/DailyLeetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Engranand/DailyLeetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Engranand/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Engranand/DailyLeetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Engranand/DailyLeetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Engranand/DailyLeetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/Engranand/DailyLeetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Engranand/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Engranand/DailyLeetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Engranand/DailyLeetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Engranand/DailyLeetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Coloring
 |  |
 | ------- |
