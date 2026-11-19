@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Engranand/DailyLeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Engranand/DailyLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Engranand/DailyLeetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2140-solving-questions-with-brainpower](https://github.com/Engranand/DailyLeetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Engranand/DailyLeetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Engranand/DailyLeetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Engranand/DailyLeetcode/tree/master/0877-stone-game) |
+| [2140-solving-questions-with-brainpower](https://github.com/Engranand/DailyLeetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Minimax
 |  |
 | ------- |
