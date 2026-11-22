@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Engranand/DailyLeetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Engranand/DailyLeetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1544-make-the-string-great](https://github.com/Engranand/DailyLeetcode/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Engranand/DailyLeetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
 | ------- |
