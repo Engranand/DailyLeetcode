@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Engranand/DailyLeetcode/tree/master/0735-asteroid-collision) |
+| [3360-stone-removal-game](https://github.com/Engranand/DailyLeetcode/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Engranand/DailyLeetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Engranand/DailyLeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Engranand/DailyLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Engranand/DailyLeetcode/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/Engranand/DailyLeetcode/tree/master/3870-count-commas-in-range) |
 ## Linked List
 |  |
